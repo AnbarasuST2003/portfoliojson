@@ -1,5 +1,5 @@
 {
-  "summary": [
+  [
     {
       "sum": "Proficient in <b>Python programming</b> with a strong foundation in essential libraries including <b>('</b>xlrd, pandas, and MySQL <b>')</b>for data manipulation and analysis."
     },
@@ -51,43 +51,6 @@
     {
       "sum": "Possesses foundational knowledge of <b>MS Excel</b>, master data integration, and <b>API management.</b>"
     }
-  ],
-  "project": [
-    {
-      "id": "1",
-      "project_name": "Album_Handler_Bot",
-      "project_heading": "Telegram Bot",
-      "image": "./assets/img/telebot.png",
-      "duration": "21 july - 22 june",
-      "type": "Academic Project",
-      "tools": "Python, python-telegram-bot, telegram,ext, Pycharm",
-      "gitlink": "error.html",
-      "description": "A versatile Python-telegram-bot, crafted for organizing media albums and folders with precision. Easily accessible images, videos, and memories - a testament to Python proficiency and interactive bot development.",
-      "details": "<h3>Description:</h3>Album_Handler_Bot stands as a remarkable testament to my unwavering commitment to Python programming and my pursuit of Telegram bot development. This personal project represents an intensive week-long immersion into coding, frameworks, and the crafting of a highly versatile digital assistant.<h3>Streamlining Media Management:</h3>At its core, Album_Handler_Bot simplifies the management of my media albums and folders. By harnessing the power of Python-telegram-bot and telegram.ext libraries, the bot promptly responds to user requests, offering an organized array of media content. Within seconds, I can access memories ranging from my college years to cherished moments with friends and family.<h3>Unmatched Versatility:</h3>What truly sets this project apart is its versatility. Album_Handler_Bot recognizes an extensive array of commands, making it an incredibly interactive and user-friendly tool. Be it images, folders, videos, or specific content from family groups, this bot executes with precision.<h3>Project's Essence:</h3>The project name, Album_Handler_Bot, mirrors its core function: to efficiently manage and curate media albums. It showcases the potential of Python as a dynamic language capable of producing real-world solutions. More than a mere bot, this project is a stepping stone in my pursuit of Python mastery and an exploration of the vast horizons of bot development.<h3>A Symbol of Continuous Learning:</h3>Album_Handler_Bot is not just a personal project; it's an embodiment of my unwavering dedication to ongoing learning and skill refinement in Python. It serves as a digital companion, housing memories while also embodying my passion for coding and creating practical technological solutions.<h3>Conclusion:</h3>With every interaction, Album_Handler_Bot reinforces the idea that, in the hands of a devoted programmer, Python can be a tool for personal enrichment and functional utility. This project is a compelling reminder that Python programming isn't just a skill; it's a gateway to innovative and pragmatic creations in the tech world."
-    },
-    {
-      "id": "2",
-      "project_name": "Personal Portfolio",
-      "project_heading": "Portfolio Website",
-      "image": "./assets/img/portfolio.png",
-      "duration": "21 july - 22 june",
-      "type": "Personal Project",
-      "tools": "HTML, CSS, JAVASCRIPT, JSON, VsCode, NPM",
-      "gitlink": "error.html",
-      "description": "This interactive site exemplifies my web development skills. Powered by JSON Server, it offers a comprehensive view of my abilities, projects, and professional journey. A platform that adapts and evolves, mirroring my commitment to a dynamic online presence.",
-      "details": "In the digital age, your online presence can be your most influential asset. To truly showcase my skills, accomplishments, and personality, I embarked on a journey to create a dynamic portfolio website. This ambitious project became a testament to my proficiency in web development, encompassing HTML, CSS, JavaScript, JSON Server, and NPM, and aimed to encapsulate every facet of my professional identity.<h3>Interactive and Data-Driven:</h3>At the heart of this project lies a meticulously crafted website that serves as a digital canvas for my professional narrative. Instead of static content, I opted for an interactive approach. I leveraged JavaScript to dynamically fetch data from a JSON server, ensuring that every piece of information on the website remains easily updatable and adaptable to future developments.<h3>A Digital Reflection:</h3>My portfolio website paints a comprehensive picture of who I am. Visitors can explore not just my skills and projects but also delve into my background, interests, and contact details. It's a digital embodiment of my career journey and a platform for presenting my diverse skill set.<h3>JSON-Powered Agility:</h3>The JSON Server, a key component of this project, stores and serves data efficiently. Each piece of information is tagged with a unique identifier, allowing me to access and display it seamlessly through HTML templates. This modular approach ensures that as my portfolio grows, adding new projects or updating existing ones becomes a breeze.<h3>Purposeful and Professional:</h3>This website isn't just about showcasing my abilities; it's a reflection of my commitment to professionalism and staying at the forefront of web development trends. It demonstrates my ability to create not just visually appealing websites but also those with functional depth.<h3>An Ever-Evolving Showcase:</h3>As I continue to evolve professionally, my portfolio website will evolve with me. It's a living document, adaptable to the ever-changing landscape of technology and design. Whether it's a new project, a skill I've acquired, or a fresh perspective on my career, this platform will consistently reflect my growth.In summary, my dynamic portfolio website is more than just a personal project; it's a testament to my passion for web development, my commitment to showcasing my skills, and my dedication to a digital presence that is as dynamic as I am. It encapsulates my journey, serves as a gateway to my professional world, and underscores the limitless possibilities of web development."
-    },
-    {
-      "id": "3",
-      "project_name": "IceCream Shop Advertisemwnt Website",
-      "project_heading": "Advertisement Website",
-      "image": "./assets/img/icecream.png",
-      "duration": "21 july - 22 june",
-      "type": "Skill Development Project",
-      "gitlink": "https://github.com/AnbarasuST2003/IceCream_shop_Advertisement_website",
-      "tools": "HTML, CSS, JAVASCRIPT, SQL, Mysql WorkBench, VsCode <br> Elevating My Online Presence: A Dynamic Portfolio Website",
-      "description": "Single Handed Academic project for each Students with grades and which is developed on HTML, CSS, JAVASCRIPT, NODE.JS, MYSQL Database (VSCODE), MYSQLWorkBench application",
-      "details": "<h3>Practical Application:</h3> Developing a real-world website allows me to apply the concepts and skills I’ve learned in my academic coursework. It gives me hands-on experience in building a functional website using various technologies. <h3>Full-Stack Development:</h3> my project encompasses front-end technologies like HTML, CSS, and JavaScript for creating the user interface, as well as back-end technologies like Node.js, Express.js, and MySQL for handling server-side functionality and database management. This comprehensive approach allows me to explore full-stack development, which is highly sought after in the industry.<h3>User and Admin Functionality:</h3> By implementing separate logins for users and admins, I demonstrate the ability to handle user authentication and access control. This feature enhances the security and privacy of my website by providing different levels of access to different types of users.<h3>Database Management:</h3> Utilizing MySQL as my database management system allows me to store and retrieve data efficiently. In the admin section, the ability to access, edit, and delete data demonstrates my understanding of database operations and CRUD (Create, Read, Update, Delete) functionalities. <h3>Dynamic Content: </h3>The animated display of product details and offers in the user section adds an engaging and interactive element to my website. By using JavaScript, I can create dynamic content that enhances the user experience and effectively promotes my ice cream shop and products."
-    }
   ]
 }
+
